@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 print("=" * 60)
 print("ASSIGNMENT 3: RIDGE, LASSO & ELASTIC NET")
 print("Student: Deep Shekhar Halder")
-print("Roll No: 06/01/2023/063")
+print("Roll No: UG/02/BTCSE/2023/063")
 print("=" * 60)
 
 # Load your dataset (shared with Assignment 1)

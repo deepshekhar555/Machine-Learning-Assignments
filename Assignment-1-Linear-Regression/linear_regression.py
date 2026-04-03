@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 print("=" * 60)
 print("ASSIGNMENT 1: SIMPLE LINEAR REGRESSION")
 print("Student: Deep Shekhar Halder")
-print("Roll No: 06/01/2023/063")
+print("Roll No: UG/02/BTCSE/2023/063")
 print("=" * 60)
 
 # Load the data

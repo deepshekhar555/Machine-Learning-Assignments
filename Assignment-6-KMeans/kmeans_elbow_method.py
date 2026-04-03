@@ -8,7 +8,7 @@ from sklearn.metrics import silhouette_score
 print("=" * 60)
 print("ASSIGNMENT 6: K-MEANS ELBOW METHOD")
 print("Student: Deep Shekhar Halder")
-print("Roll No: 06/01/2023/063")
+print("Roll No: UG/02/BTCSE/2023/063")
 print("=" * 60)
 
 # Load data

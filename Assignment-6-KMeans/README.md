@@ -1,7 +1,7 @@
 # Assignment 6: K-Means Clustering (Elbow Method)
 
 **Student:** Deep Shekhar Halder  
-**Roll No:** 06/01/2023/063
+**Roll No:** UG/02/BTCSE/2023/063
 
 ## Objective
 Find optimal number of clusters using the Elbow Method.

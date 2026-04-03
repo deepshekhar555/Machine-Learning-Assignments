@@ -1,7 +1,7 @@
 # Assignment 8: DBSCAN Clustering
 
 **Student:** Deep Shekhar Halder  
-**Roll No:** 06/01/2023/063
+**Roll No:** UG/02/BTCSE/2023/063
 
 ## Objective
 Implement DBSCAN clustering algorithm for density-based clustering.

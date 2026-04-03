@@ -1,7 +1,7 @@
 # Assignment 4: K-Nearest Neighbors (From Scratch)
 
 **Student:** Deep Shekhar Halder  
-**Roll No:** 06/01/2023/063
+**Roll No:** UG/02/BTCSE/2023/063
 
 ## Objective
 Implement KNN algorithm from scratch using Euclidean distance.
